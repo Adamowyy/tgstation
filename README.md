@@ -1,6 +1,6 @@
 # Aquila Station 13
 
-* **Discord:** https://discord.gg/66DeZmB
+* **Discord:** https://discord.gg/66DeZmB test
 
 ## Zgłaszanie bugów lub sugestii
 
